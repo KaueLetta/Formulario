@@ -86,9 +86,8 @@ function checkEmail(email) {
    
     window.dataLayer = window.dataLayer || [];
     dataLayer.push({
-    'name_prod' : 'Mouse Exemplo',
-    'conversionValue' : 180.77,
-    'event' : 'Finalizacao'
+    'name_prod' : 'Usuario',
+    'event' : 'contato'
     });
 
    
